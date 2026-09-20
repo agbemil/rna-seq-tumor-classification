@@ -1,0 +1,12 @@
+{
+  "top_features_used": 50,
+  "absolute_correlation_threshold": 0.7,
+  "nodes": 50,
+  "edges": 358,
+  "connected_components": 3,
+  "communities": 5,
+  "modularity": 0.3541871414794388,
+  "degree_preserving_randomizations": 200,
+  "null_mean_modularity": 0.1311276957648013,
+  "permutation_p_value": 0.004975124378109453
+}

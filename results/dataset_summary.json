@@ -1,0 +1,20 @@
+{
+  "samples": 801,
+  "features_in_user_copy": 16383,
+  "official_uci_features": 20531,
+  "missing_features_relative_to_official": 4148,
+  "missing_values": 0,
+  "duplicate_rows": 0,
+  "constant_features": 32,
+  "class_counts": {
+    "BRCA": 300,
+    "COAD": 78,
+    "KIRC": 146,
+    "LUAD": 141,
+    "PRAD": 136
+  },
+  "train_samples": 640,
+  "test_samples": 161,
+  "pca_pc1_variance": 0.10715269,
+  "pca_pc2_variance": 0.08534221
+}
