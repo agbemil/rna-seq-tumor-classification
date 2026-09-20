@@ -187,4 +187,4 @@ and its feature rankings are not clinically validated biomarkers.
 
 ## Author
 
-Agbemade
+Dr. Emil Agbemade
