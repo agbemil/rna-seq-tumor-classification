@@ -126,22 +126,6 @@ Current development network:
 This is a **statistical co-expression network**, not evidence of direct
 biological interaction, regulation, or causality.
 
-## Improvements Over the Original Script
-
-The refactored version:
-
-- removes machine-specific Windows paths;
-- avoids discarding most samples through blanket downsampling;
-- uses stratified splitting;
-- prevents feature-selection leakage;
-- removes constant predictors before ANOVA selection;
-- keeps an untouched holdout set for final evaluation;
-- adds macro F1 and class-specific evaluation;
-- separates data loading, modeling, and network analysis into modules;
-- describes the correlation graph accurately as a co-expression network;
-- uses a degree-preserving null model for exploratory modularity assessment;
-- includes automated tests and reproducible UCI data retrieval.
-
 ## Repository Structure
 
 ```text
